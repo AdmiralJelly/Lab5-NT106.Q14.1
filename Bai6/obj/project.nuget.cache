@@ -1,0 +1,13 @@
+{
+  "version": 2,
+  "dgSpecHash": "rJdmaiE3iE8=",
+  "success": true,
+  "projectFilePath": "C:\\Users\\bewoo\\Desktop\\Lab5\\Lab5\\Bai6\\Bai6.csproj",
+  "expectedPackageFiles": [
+    "C:\\Users\\bewoo\\.nuget\\packages\\microsoft.windowsdesktop.app.ref\\8.0.22\\microsoft.windowsdesktop.app.ref.8.0.22.nupkg.sha512",
+    "C:\\Users\\bewoo\\.nuget\\packages\\microsoft.netcore.app.ref\\8.0.22\\microsoft.netcore.app.ref.8.0.22.nupkg.sha512",
+    "C:\\Users\\bewoo\\.nuget\\packages\\microsoft.aspnetcore.app.ref\\8.0.22\\microsoft.aspnetcore.app.ref.8.0.22.nupkg.sha512",
+    "C:\\Users\\bewoo\\.nuget\\packages\\microsoft.netcore.app.host.win-x64\\8.0.22\\microsoft.netcore.app.host.win-x64.8.0.22.nupkg.sha512"
+  ],
+  "logs": []
+}
