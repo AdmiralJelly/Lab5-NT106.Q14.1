@@ -1,13 +1,27 @@
 {
   "version": 2,
-  "dgSpecHash": "+EIqePKmhcc=",
+  "dgSpecHash": "pj+O8x1pzsw=",
   "success": true,
   "projectFilePath": "C:\\Users\\bewoo\\Desktop\\Lab5\\Lab5\\Bai3\\Bai3.csproj",
   "expectedPackageFiles": [
+    "C:\\Users\\bewoo\\.nuget\\packages\\openpop.net\\2.0.6.1120\\openpop.net.2.0.6.1120.nupkg.sha512",
     "C:\\Users\\bewoo\\.nuget\\packages\\microsoft.windowsdesktop.app.ref\\8.0.22\\microsoft.windowsdesktop.app.ref.8.0.22.nupkg.sha512",
     "C:\\Users\\bewoo\\.nuget\\packages\\microsoft.netcore.app.ref\\8.0.22\\microsoft.netcore.app.ref.8.0.22.nupkg.sha512",
     "C:\\Users\\bewoo\\.nuget\\packages\\microsoft.aspnetcore.app.ref\\8.0.22\\microsoft.aspnetcore.app.ref.8.0.22.nupkg.sha512",
     "C:\\Users\\bewoo\\.nuget\\packages\\microsoft.netcore.app.host.win-x64\\8.0.22\\microsoft.netcore.app.host.win-x64.8.0.22.nupkg.sha512"
   ],
-  "logs": []
+  "logs": [
+    {
+      "code": "NU1701",
+      "level": "Warning",
+      "message": "Package 'OpenPop.NET 2.0.6.1120' was restored using '.NETFramework,Version=v4.6.1, .NETFramework,Version=v4.6.2, .NETFramework,Version=v4.7, .NETFramework,Version=v4.7.1, .NETFramework,Version=v4.7.2, .NETFramework,Version=v4.8, .NETFramework,Version=v4.8.1' instead of the project target framework 'net8.0-windows7.0'. This package may not be fully compatible with your project.",
+      "projectPath": "C:\\Users\\bewoo\\Desktop\\Lab5\\Lab5\\Bai3\\Bai3.csproj",
+      "warningLevel": 1,
+      "filePath": "C:\\Users\\bewoo\\Desktop\\Lab5\\Lab5\\Bai3\\Bai3.csproj",
+      "libraryId": "OpenPop.NET",
+      "targetGraphs": [
+        "net8.0-windows7.0"
+      ]
+    }
+  ]
 }
